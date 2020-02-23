@@ -6,8 +6,8 @@
 * [lesson-07](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson7)  (ООП: SOLID принципи)
 * [lesson-08](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson8)  (ООП: Enum, консольна програма)
 * [lesson-09](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson9)  (Exception, Java code convention)
-
-
+* [lesson-10](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson10)  (String)
+* [lesson-11](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson11)  (Arrays, Collections)
 
 
 
