@@ -8,7 +8,7 @@
 * [lesson-09](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson9)  (Exception, Java code convention)
 * [lesson-10](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson10)  (String)
 * [lesson-11](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson11)  (Arrays, Collections)
-
+* [lesson-12](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson12)  (List)
 
 
 
