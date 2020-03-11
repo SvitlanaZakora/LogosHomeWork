@@ -1,3 +1,5 @@
+package min;
+
 import java.util.Objects;
 
 public class Human implements Comparable {
