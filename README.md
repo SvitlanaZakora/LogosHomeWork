@@ -10,6 +10,7 @@
 * [lesson-11](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson11)  (Arrays, Collections)
 * [lesson-12](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson12)  (List)
 * [lesson-14](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson14)  (Set,Queue)
+* [lesson-15](https://github.com/SvitlanaZakora/LogosHomeWork/tree/lesson15)  (Map)
 
 
 
